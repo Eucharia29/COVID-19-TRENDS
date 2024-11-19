@@ -15,8 +15,8 @@ This projects shows the trends and spread of COVID-19 in different continent wit
 3. Data driven insights.
 
 ## TOOLS AND DATA SOURCE 
-- TOOLS: Pyton, Jupyter Notebook
-- DATA SOURCES: Our world in Data COVID-19 Dataset(Github). This datasets include columns such as continents, total cases, total deaths, people vaccinated, life expectancy etc
+- ### TOOLS: Pyton, Jupyter Notebook
+- ### DATA SOURCES: Our world in Data COVID-19 Dataset(Github). This datasets include columns such as continents, total cases, total deaths, people vaccinated, life expectancy etc
 
 ## DATA PREPARATION PROCESS
 The data was imported into python using (import pandas as pd). Data was stored in a csv.file
