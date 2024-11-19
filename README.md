@@ -1,7 +1,7 @@
 # COVID-19-TRENDS
 
 ## Project overview
-This projects shows the trends and spread of COVID-19 in different continent with a comprehensive view of the cases, deaths, vaccination and positve outcome from each continents. By analyzing these data, this poject shows valuable insights to help indidviduals have an insight on COVID-19:
+This projects shows the trends and spread of COVID-19 in different continent with a comprehensive view of the cases, deaths, vaccinations and positive outcome from each continents. By analyzing these datas, this poject shows valuable insights to help indidviduals have an insight on COVID-19:
 
 1. The continent with the least outbreak of COVID-19
 2. The continent with highest outbreak of COVID-19
